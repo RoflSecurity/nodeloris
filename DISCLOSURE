@@ -1,0 +1,9 @@
+Nodeloris is a dual-use network security research and connection-testing utility for Node.js.
+
+The package creates TCP or TLS connections to a user-specified host and can maintain multiple concurrent connections for controlled testing of network services.
+
+This functionality is intended for authorized security research, defensive testing, development, benchmarking, and testing of systems owned or explicitly authorized by the user.
+
+Users are responsible for obtaining authorization before testing systems they do not own or operate.
+
+Nodeloris does not contain malware, persistence mechanisms, credential theft functionality, spyware, or mechanisms intended to compromise or maintain unauthorized access to systems.

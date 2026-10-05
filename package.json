@@ -1,0 +1,31 @@
+{
+  "name": "@roflsec/nodeloris",
+  "version": "0.0.6",
+  "description": "May the lulz be with you",
+  "main": "nodeloris.js",
+  "bin": {
+    "nodeloris": "nodeloris.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pownloris",
+    "loris",
+    "nodeloris",
+    "roflsec",
+    "dostool"
+  ],
+  "author": "RoflSecurity",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@roflsec/rofl": "^0.0.10"
+  },
+  "contentPolicy": {
+    "class": "dual-use"
+  }
+}
